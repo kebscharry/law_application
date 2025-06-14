@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 
-import 'main.dart';
+import 'base_scaffold.dart';
 
 class KnowMore extends StatelessWidget {
   const KnowMore({super.key});
